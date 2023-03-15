@@ -1,9 +1,9 @@
-# -3567D-ELSYK-M8188SEHackintosh0.88
+# 天迪-3567D-ELSYK-M8188SEHackintosh0.88
 
 适合工控主板 七代 hd620 
 
 
-天迪3567D。ELSYK M888SE
+天迪3567D。ELSYK M8188SE
 
 
 12 monterey
@@ -18,3 +18,5 @@
 
 
 内附efi  oc0.88.    bios以及刷新工具和教程
+
+升级13后 需要更新英特尔网卡到2.20
