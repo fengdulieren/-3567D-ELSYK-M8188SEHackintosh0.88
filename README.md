@@ -1,4 +1,4 @@
-# 天迪-3567D-ELSYK-M8188SEHackintosh0.88
+# 天迪-3567D-ELSYK-M8188SEHackintosh-OC 0.88
 
 适合工控主板 七代 hd620 
 
