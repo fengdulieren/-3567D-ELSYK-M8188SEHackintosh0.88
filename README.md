@@ -6,7 +6,7 @@
 天迪3567D。ELSYK M8188SE
 
 
-12 monterey
+12 monterey。4k 正常显示
 
 
 
