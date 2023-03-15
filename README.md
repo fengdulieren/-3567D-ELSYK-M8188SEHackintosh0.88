@@ -1,6 +1,6 @@
 # 天迪-3567D-ELSYK-M8188SEHackintosh-OC 0.88
 
-适合工控主板 七代 hd620 
+适合工控主板 七代 hd620 无法关闭csm 无法设置dvmt
 
 
 天迪3567D。ELSYK M8188SE
@@ -20,3 +20,5 @@
 内附efi  oc0.88.    bios以及刷新工具和教程
 
 升级13后 需要更新英特尔网卡到2.20
+
+新版bios支持nvme硬盘
