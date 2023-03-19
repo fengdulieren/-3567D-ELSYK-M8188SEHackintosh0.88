@@ -15,7 +15,7 @@ CPU。I5-7300U
 12 monterey。4k 正常显示。蓝牙 无线网卡 有线网卡 接力。账户正常
 
 
-存在问题 alc662无法驱动。所有ID注入无效。 EFI2 是驱动好了HDMI音频。大家使用蓝牙和HDMI声音输出吧
+存在问题 alc662无法驱动。所有ID注入无效。EFI是4K分辨率 无HDMI声音输出的。 EFI2 是驱动好了HDMI音频,2K分辨率。 EFI_4KHDMI是4K分辨率 有HDMI声音输出的。大家使用蓝牙和HDMI声音输出吧
 
 
 刷新bios后 需在OC启动界面按空格 进入GRUB。 原版Bios输入setup_var_3 0x7D3 0x2. 或刷我上传的版本 setup_var_3 0x7D4 0x2 否则启动mac会重启
