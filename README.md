@@ -1,4 +1,4 @@
-# 天迪-3567D-ELSYK-M8188SEHackintosh-OC 0.88
+# 天迪-3567D-ELSYK-M8188SEHackintosh-OC 0.89
 
 适合工控主板 七代 hd620 无法关闭csm 无法设置dvmt
 
@@ -25,7 +25,7 @@ EFI是4K分辨率 无HDMI声音输出的。 EFI2 是驱动好了HDMI音频,2K分
 
 
 
-内附efi  oc0.88.    bios以及刷新工具和教程
+内附efi  oc0.89.    bios以及刷新工具和教程
 
 升级13后 需要更新英特尔网卡到2.20  联网慢 不建议
 
